@@ -35,4 +35,4 @@ jobs:
 #        flake8 .
     - name: Run Tests
       run: |
-        python manage.py test
+        python demo/manage.py test
